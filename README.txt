@@ -1,4 +1,2 @@
-Based on usfm_rev1
-Added \toc3 marker to each book
-Changed \toc3 references MAT to MOT, MRK to MAK
-Removed from Luk 10:35 \r LUK 10: 36 126
+Started with usfm_rev2. Imported/exported through Bibledit to remove \v error.
+Namely, \v should start on its own line, otherwise Scripture App Builder is unhappy.
