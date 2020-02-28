@@ -1,0 +1,29 @@
+﻿<ScriptureText>
+  <Versification>4</Versification>
+  <CreatedWithPTW6>T</CreatedWithPTW6>
+  <Name>CCPBIV</Name>
+  <Encoding>65001</Encoding>
+  <Language>English</Language>
+  <DefaultFont>Charis SIL</DefaultFont>
+  <DefaultFontSize>14</DefaultFontSize>
+  <FileNamePostPart>CCPBIV.SFM</FileNamePostPart>
+  <FileNameBookNameForm>41MAT</FileNameBookNameForm>
+  <StyleSheet>usfm Hosanna.sty</StyleSheet>
+  <ChapterMarker>c</ChapterMarker>
+  <VerseMarker>v</VerseMarker>
+  <TranslationInfo>Standard::</TranslationInfo>
+  <FullName>Chakma</FullName>
+  <BiblicalTermsListSetting>Major::BiblicalTerms.xml</BiblicalTermsListSetting>
+  <Editable>T</Editable>
+  <NeedsEnglishLanguageFix>No</NeedsEnglishLanguageFix>
+  <NeedsPortugueseLanguageFix>No</NeedsPortugueseLanguageFix>
+  <InitialImportBooksDirectory>Y:\1 DBP\1 Current\HIGH\Chakma N2CCPBIV\Used for Paratext\Original</InitialImportBooksDirectory>
+  <Guid>b70b3f44e961c6626f86e05b5db5e6972841fdaf</Guid>
+  <SegmentOrder>a b c d e f g h i j k l m n o p q r s t u v w x y z aa bb cc dd ee ff gg hh ii jj kk ll mm nn oo pp qq rr ss tt uu vv ww xx yy zz</SegmentOrder>
+  <GuessTranslationsDestinationText>ENGESV</GuessTranslationsDestinationText>
+  <FileNamePrePart />
+  <FileNameChapterNumberForm />
+  <Directory>C:\My Paratext Projects\CCPBIV</Directory>
+  <BooksPresent>000000000000000000000000000000000000000111111111111111111111111111000000000000000000000000000000000000000000000000000000000</BooksPresent>
+  <Naming PrePart="" PostPart="CCPBIV.SFM" BookNameForm="41MAT" ChapterNumberForm="" />
+</ScriptureText>
