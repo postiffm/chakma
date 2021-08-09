@@ -23,9 +23,9 @@ b	48
 q1	124
 q2	87
 nb	2
-mt	27	<<== This marker is not in the BI approved list
+mt	27
 mt2	27
 im	81	<<== This marker is not in the BI approved list
-s	702	<<== This marker is not in the BI approved list
+s	702
 r	177
-q	147	<<== This marker is not in the BI approved list
+q	147
